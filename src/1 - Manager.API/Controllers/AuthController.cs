@@ -15,6 +15,7 @@ namespace Manager.API.Controllers{
         {
             _configuration = configuration;
             _tokenGenerator = tokenGenerator;
+            //teste
         }
 
         [HttpPost]
